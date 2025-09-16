@@ -98,7 +98,7 @@ Developed by [Tejas Mahesh Bhide] 🎓
 Master of Computer Applications (MCA)
 
 📧 Contact: tejasbhide21@gmail.com
-🌐 GitHub:
+🌐 GitHub: https://github.com/TEJASBHIDE
 
 
 ✨ If you like this project, don’t forget to ⭐ star this repository and contribute!
